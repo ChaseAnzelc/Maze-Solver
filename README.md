@@ -1,7 +1,6 @@
 # Maze Solver
 
-Maze Solver Application [Using Stack]
-
+Maze Solver Application  [Created Stack Class Solution] [Binary Tree Solution]
 
 # Description
 
