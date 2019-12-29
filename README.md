@@ -30,7 +30,7 @@ maze32<br>
 
 <img src="/Image/maze1.PNG">
 
-# Video Showing Maze Solutions
+# Videos Showing Maze Solutions
 
 Basic Solution using created Stack class<br>
 [Visually a BLUE DOT shows the program moving through the maze. When the program hits a wall with no outlet it will POP from the stack and it will show as a GRAY DOT now]<br>
