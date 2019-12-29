@@ -1,10 +1,4 @@
-// javac Maze.java StdDraw.java
-//java Maze maze16.txt
-
 //CHASE ANZELC
-//DATA STRUCTURES
-//ASSIGNMENT 1
-
 import java.io.*;
 
 
