@@ -37,4 +37,4 @@ Basic Solution using created Stack class<br>
 [Click for Video<img src="/Image/maze2.PNG"></img>](https://drive.google.com/open?id=1CO9fffzwb_0QKbJAaBSdBaWfLFcu4BNh)
 
 Implementing a Binary tree on the maze<br>
-[Click for Video<img src="/Image/maze2.PNG"></img>](https://drive.google.com/open?id=1CO9fffzwb_0QKbJAaBSdBaWfLFcu4BNh)
+[Click for Video<img src="/Image/maze3.PNG"></img>](https://drive.google.com/open?id=1KQPYE5VXR9cUhJ9Nh2LXkyfbiSBmz3dF)
