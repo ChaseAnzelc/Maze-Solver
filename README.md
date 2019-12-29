@@ -32,9 +32,9 @@ maze32<br>
 
 # Video Showing Maze Solutions
 
-Basic Solution using created Stack class
-[Visually a BLUE DOT shows the program moving through the maze. When the program hits a wall with no outlet it will POP from the stack and it will show as a GRAY DOT now]
+Basic Solution using created Stack class<br>
+[Visually a BLUE DOT shows the program moving through the maze. When the program hits a wall with no outlet it will POP from the stack and it will show as a GRAY DOT now]<br>
 [Click for Video<img src="/Image/maze2.PNG"></img>](https://drive.google.com/open?id=1CO9fffzwb_0QKbJAaBSdBaWfLFcu4BNh)
 
-Implementing a Binary tree on the maze
+Implementing a Binary tree on the maze<br>
 [Click for Video<img src="/Image/maze2.PNG"></img>](https://drive.google.com/open?id=1CO9fffzwb_0QKbJAaBSdBaWfLFcu4BNh)
